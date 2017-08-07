@@ -1,4 +1,5 @@
 {
     "require": {
+        "bbdn/core": "@dev"
     }
 }
