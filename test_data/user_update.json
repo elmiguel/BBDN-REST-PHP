@@ -1,0 +1,16 @@
+{
+  "externalId": "test.python.user",
+  "dataSourceId": "_81_1",
+  "userName": "python_demo",
+  "password": "python61",
+  "availability": {
+    "available": "Yes"
+  },
+  "name": {
+    "given": "Python",
+    "family": "It's-Awesome"
+  },
+  "contact": {
+    "email": "python.demo@no.where"
+  }
+}

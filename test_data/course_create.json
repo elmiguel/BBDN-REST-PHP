@@ -1,0 +1,19 @@
+{
+  "externalId": "test-python-0001",
+  "dataSourceId": "_81_1",
+  "courseId": "test-python-0001",
+  "name": "Test - Python - 0001",
+  "description": "Simple test - course created via python api",
+  "organization": false,
+  "ultraStatus": "Undecided",
+  "allowGuests": true,
+  "availability": {
+    "available": "Yes",
+    "duration": {
+      "type": "Continuous",
+      "start": "2016-08-29T18:33:19.574Z",
+      "end": "2016-08-29T18:33:19.574Z",
+      "daysOfUse": 0
+    }
+  }
+}

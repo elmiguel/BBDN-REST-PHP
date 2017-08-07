@@ -1,0 +1,32 @@
+[{
+    "externalId": "test.python.user",
+    "dataSourceId": "_81_1",
+    "userName": "python_demo",
+    "password": "python61",
+    "availability": {
+      "available": "Yes"
+    },
+    "name": {
+      "given": "Python",
+      "family": "Demo"
+    },
+    "contact": {
+      "email": "no.one@ereh.won"
+    }
+  },
+  {
+    "externalId": "test.python.user2",
+    "dataSourceId": "_81_1",
+    "userName": "python_demo2",
+    "password": "python61",
+    "availability": {
+      "available": "Yes"
+    },
+    "name": {
+      "given": "Python2",
+      "family": "Demo2"
+    },
+    "contact": {
+      "email": "no.two@ereh.won"
+    }
+  }]

@@ -1,0 +1,15 @@
+{
+  "externalId": "some.python.term",
+  "dataSourceId": "_81_1",
+  "name": "Some Term",
+  "description": "Some term created via the Python API",
+  "availability": {
+    "available": "Yes",
+    "duration": {
+      "type": "Continuous",
+      "start": "2016-08-26T01:32:06.068Z",
+      "end": "2017-08-26T01:32:06.068Z",
+      "daysOfUse": 0
+    }
+  }
+}

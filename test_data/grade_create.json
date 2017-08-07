@@ -1,0 +1,23 @@
+{
+  "externalId": "test-python-column",
+  "name": "Test Column",
+  "description": "This is a column that was created via the bbrestapi CLI.",
+  "externalGrade": true,
+  "score": {
+    "possible": 100,
+    "decimalPlaces": 0
+  },
+  "availability": {
+    "available": "Yes"
+  },
+  "grading": {
+    "type": "Manual",
+    "due": "2017-01-12T16:20:15.359Z",
+    "attemptsAllowed": 0,
+    "scoringModel": "Last",
+    "anonymousGrading": {
+      "type": "None",
+      "releaseAfter": "2017-01-12T16:20:15.359Z"
+    }
+  }
+}
